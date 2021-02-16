@@ -9,8 +9,8 @@ import (
 )
 
 const (
-	W    = 1366
-	H    = 768
+	W    = 1920
+	H    = 1080
 	Wall = 32
 	FOV  = math.Pi / 3
 )
